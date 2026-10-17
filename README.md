@@ -1,5 +1,8 @@
 # flower-pilot
 
+<img width="220" height="208" alt="flowery-flowery-deltarune" src="https://github.com/user-attachments/assets/252d259d-4d8e-4f4a-9cd4-b67af76c6744" />
+
+
 Turn the useless **Copilot key** on a laptop keyboard into a **random Flowery
 voiceline** button.
 
